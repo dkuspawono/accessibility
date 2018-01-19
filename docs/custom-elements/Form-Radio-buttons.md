@@ -93,7 +93,9 @@ Utilities
 [...]
 
 ### Improved
-[...]
+[.quality streaming - wave
+ usb improve sound as eell as streaming
+ rec radio:red:.]
 
 ## WCAG Reference
 * **[1.3.1 Info and Relationships](https://www.w3.org/WAI/WCAG20/quickref/#content-structure-separation-programmatic)** - Level A
